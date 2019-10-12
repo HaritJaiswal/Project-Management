@@ -788,7 +788,7 @@ Priority order:
 FIFO order comes after priority.
 If there are two jobs with a different priority, then you take the job which has the higher priority, irrespective of who came first.
 FIFO has to be maintained only if their priorities are same.
-References:
+References :
 
 [1]    Ascii table - ascii character codes and html, octal, hex and decimal chart conversion. http://www.asciitable.com/. (Accessed on 09/15/2019).
 
